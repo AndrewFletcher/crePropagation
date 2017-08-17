@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.pdf
+*.odp
+*.pyc
+*.svg
+*.mp4
+docs/
+results/
+talks/
